@@ -1,4 +1,4 @@
-#Calculator Using C++
+# Calculator Using C++
 
  This is a simple **Calculator** that does basic **arithmetic opterations** - Addition, Subtraction, Multiplication and Division..
  It uses **SWITCH()** function to toggle between the options chosen by the user.
